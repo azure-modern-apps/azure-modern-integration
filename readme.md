@@ -1,5 +1,5 @@
-# Azure Modern Apps - Products Function App
-This is an open source serverless starter for building modern enterprise apps and APIs. 
+# Azure Modern Apps - Integration Starter
+This is an open source  starter for building enterprise integration leveraging Microsoft Azure. 
 ![](./docs/assets/architecture-overview.png)
 
 ## Defintition of done
